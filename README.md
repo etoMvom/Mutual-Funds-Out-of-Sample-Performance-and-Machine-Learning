@@ -1,7 +1,5 @@
 # Mutual-Funds-Out-of-Sample-Performance-and-Machine-Learning
 ---
-
-## FINA0063-1: Advanced Statistical Methods in Finance  
 ### Introduction
 
 In this comprehensive exploration of machine learning methodologies in finance—specifically tailored for **mutual fund selection** and **out-of-sample alpha prediction**—we emphasize the nonlinear relationships between covariates and their profound impact on forecasting alpha. Our approach integrates advanced machine learning techniques that capture complex patterns and interactions in financial data.
